@@ -7,7 +7,7 @@ blessy_data = {
         "email": "mailto:blessyaaron999@gmail.com",
         "phone": "+49 17679046876",
         "linkedin": "https://linkedin.com/in/blessy-evangeline-30679b242",
-        "github": "https://github.com/Blessy234"
+        "github": "https://github.com/Blessy0403"
     },
     "about": (
         "Detail-oriented Data Analyst skilled in SQL, Tableau, Power BI, and pipeline automation. "
