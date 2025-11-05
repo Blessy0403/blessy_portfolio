@@ -50,7 +50,7 @@ with st.sidebar:
     st.markdown("[📄 Resume](./assets/blessy_resume.pdf)")
     st.markdown("📧 blessyaaron999@gmail.com")
     st.markdown("[🔗 LinkedIn](https://linkedin.com/in/blessy-evangeline-30679b242)")
-    st.markdown("[💻 GitHub](https://github.com/Blessy234)")
+    st.markdown("[💻 GitHub](https://github.com/Blessy0403)")
 
 # --- Header ---
 show_header(blessy_data)
