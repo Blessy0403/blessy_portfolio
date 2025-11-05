@@ -47,7 +47,7 @@ st.markdown(page_bg, unsafe_allow_html=True)
 # --- Sidebar ---
 with st.sidebar:
     st.title("Blessy Evangeline Aaron")
-    st.markdown("[📄 Resume](./assets/blessy_resume.pdf)")
+    st.markdown("[📄 Resume](assets/blessy_resume.pdf)")
     st.markdown("📧 blessyaaron999@gmail.com")
     st.markdown("[🔗 LinkedIn](https://linkedin.com/in/blessy-evangeline-30679b242)")
     st.markdown("[💻 GitHub](https://github.com/Blessy0403)")
