@@ -1,8 +1,8 @@
 blessy_data = {
     "name": "Blessy Evangeline Aaron",
     "title": "Data Analyst | Data Science Enthusiast",
-    "profile_img": "./assets/profile.jpeg",
-    "resume_link": "./assets/blessy_resume.pdf",
+    "profile_img": "assets/profile.jpeg",
+    "resume_link": "assets/blessy_resume.pdf",
     "contact": {
         "email": "mailto:blessyaaron999@gmail.com",
         "phone": "+49 17679046876",
